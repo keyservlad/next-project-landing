@@ -9,7 +9,7 @@ export default function PostPage({ postData, content }) {
   return (
     <Layout>
       <Head>
-        <title>Arnaud's blog</title>
+        <title>Arnaud&apos;s blog</title>
       </Head>
       <h1>Testing</h1>
       {/* Main */}

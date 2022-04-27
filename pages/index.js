@@ -10,7 +10,7 @@ export default function Home(props) {
   return (
     <Layout>
       <Head>
-        <title>Arnaud's blog</title>
+        <title>Arnaud&apos;s blog</title>
       </Head>
 
       {/* Banner */}
