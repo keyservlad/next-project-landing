@@ -1,4 +1,8 @@
-# Favorite songs of 2020
+---
+title: favorite songs
+feature_image: songs.jpg
+date: '2022-04-26 11:51:12'
+---
 
 ## This is a blogpost about javascript framework
 

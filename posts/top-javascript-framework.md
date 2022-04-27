@@ -1,4 +1,8 @@
-# Top Javascript Framework
+---
+title: Top javascript frameworks
+feature_image: frameworks.jpg
+date: '2022-04-26 11:51:12'
+---
 
 ## This is a blogpost about javascript framework
 

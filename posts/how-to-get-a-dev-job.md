@@ -1,4 +1,8 @@
-# How to get a dev job
+---
+title: how to get a dev job
+feature_image: dev-job.jpg
+date: '2022-04-26 11:51:12'
+---
 
 ## This is a blogpost about javascript framework
 
